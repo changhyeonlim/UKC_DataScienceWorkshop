@@ -7,6 +7,7 @@ Hello! This repository is to backup shared codes @ UKC Data science workshop. I 
 - XGBoost and model interpretation using SHAP
 - Natural language processing and sentiment analysis
 ### [UKC 2021 DSW](https://ukc.ksea.org/ukc2021/dsw/), Orange County, California
+#### Topics covered
 - Basics of Data science and introduction to Pandas
 - Clustering
 - Deep Learning
